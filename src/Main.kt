@@ -1,3 +1,3 @@
 fun main() {
-    println("Hello from Git!")
+    println("Привет")
 }
